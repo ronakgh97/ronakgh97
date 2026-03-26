@@ -4,7 +4,7 @@
 i like to experiment with networks and systems and enjoy low-level programming to learn how software & hardware works together 🫂
 
 #### some of my works:
-- [blazedb](https://github.com/ronakgh97/blazedb): a disk & memory optimzated vector search engine, which uses hnsw + ivf + [turdoquant](https://arxiv.org/pdf/2504.19874) and simd for fast retrivals
+- [blazedb](https://github.com/ronakgh97/blaze-db): a disk & memory optimized vector search engine, which uses hnsw + ivf + [turboquant](https://arxiv.org/pdf/2504.19874) and simd for fast retrivals
 - [ghost-sync](https://github.com/ronakgh97/ghost-sync): a composable async network library for multiplayer integration in game dev
 - [rdrive](https://github.com/ronakgh97/rdrive): a super minimal tiny bin, cheap clone of aws s3 and streaming data feature between terminals
 
