@@ -1,4 +1,4 @@
-### ronak ghosh [mail📩](ronakgh97@gmail.com)
+### ronak ghosh [mail📩](mailto:ronakgh97@gmail.com)
 19yo undergrad
 
 I like to experiment with networks and systems and enjoy low-level programming to learn how software & hardware works together 🫂
