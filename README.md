@@ -8,8 +8,9 @@ I like to work with networks, systems and enjoy silicon-level programming to lea
 - [ghost-sync](https://github.com/ronakgh97/ghost-sync): a composable async network library for [multiplayer integration](https://www.gabrielgambetta.com/client-server-game-architecture.html) in game dev
 - [rdrive](https://github.com/ronakgh97/rdrive): a super minimal tiny bin, cheap clone of aws s3 and streaming data feature between terminals (inspired by [croc](https://github.com/schollz/croc))
 - [hnsw](https://github.com/ronakgh97/blaze-db): a simplified library implementation of hierarchical NSW from [paper](https://arxiv.org/pdf/1603.09320)
+- [blas](https://github.com/ronakgh97/blas_rs): [openBlas](https://github.com/OpenMathLib/OpenBLAS) kernels implementation in rust for x86_64 arch only
 
-my interests: database & system design and patterns, rust programming (slightly addicted), micro-opt, compilers, game dev.......and pokemons
+my interests: database & system design and patterns, rust programming (slightly addicted), micro-opt, hcp, compilers, game dev.......and pokemons
 
 [![Groudon](https://img.pokemondb.net/sprites/black-white/anim/normal/groudon.gif)](https://pokemondb.net/pokedex/groudon)
 [![Rayquaza](https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif)](https://pokemondb.net/pokedex/rayquaza)
