@@ -1,8 +1,6 @@
 ### ronak ghosh [mail📩](mailto:ronakgh97@gmail.com)
 sad 19yo undergrad
 
-I like to work with systems, network protocols and enjoy 'silicon programming'/HPC to learn how software & hardware works together 🫂
-
 #### some of my works:
 - [blazedb](https://github.com/ronakgh97/blaze-db): a disk & memory optimized vector search engine, which uses [hnsw](https://arxiv.org/pdf/2512.06636) + [ivf](https://www.velodb.io/glossary/inverted-file-index-in-vector-similarity-search) + [turboquant](https://arxiv.org/pdf/2504.19874) and simd for fast retrivals
 - [ghost-sync](https://github.com/ronakgh97/ghost-sync): a composable async network library for [multiplayer integration](https://www.gabrielgambetta.com/client-server-game-architecture.html) in game dev
