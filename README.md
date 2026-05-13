@@ -8,7 +8,7 @@ sad 19yo undergrad
 - [hnsw](https://github.com/ronakgh97/blaze-db): a simplified library implementation of hierarchical NSW from [paper](https://arxiv.org/pdf/1603.09320)
 - [blas](https://github.com/ronakgh97/blas_rs): [openBlas](https://github.com/OpenMathLib/OpenBLAS) kernels implementation in rust for x86_64 arch only
 
-my interests: database & system design and patterns, rust programming (slightly addicted), micro-opt, hcp, compilers, game dev.......and pokemons
+my interests: database & system design and patterns, micro-opt, hcp, crypto, compilers, game dev.......and pokemons
 
 [![Groudon](https://img.pokemondb.net/sprites/black-white/anim/normal/groudon.gif)](https://pokemondb.net/pokedex/groudon)
 [![Rayquaza](https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif)](https://pokemondb.net/pokedex/rayquaza)
