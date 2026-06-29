@@ -1,4 +1,4 @@
-### ronak ghosh [mail📩](mailto:ronakgh97@gmail.com)
+### ronak ghosh [mail📩](mailto:ronakgh97@gmail.com) [resume📃](https://drive.google.com/file/d/1s0TcNJBv-qBhiULL44FafhiXaKxGQo1z/view?usp=sharing)
 lost cs 19yo undergrad
 
 #### some of my works:
@@ -12,7 +12,7 @@ lost cs 19yo undergrad
 - [hydra-sync](https://github.com/ronakgh97/hydra-sync): SPMC network library for good abstraction distributed relay cluster applications (e.g qbittorrent, tor, etc)
 - [ghost-sync](https://github.com/ronakgh97/ghost-sync): composable async network rust library for [multiplayer integration](https://www.gabrielgambetta.com/client-server-game-architecture.html) in game dev.
 
-my interests: perf engineering, exploring x86 cpu, database internals, network stacks and building libs
+my interests: perf engineering, exploring x86 cpu, database internals, network protocols & stacks and building compute libs
 
 [![Groudon](https://img.pokemondb.net/sprites/black-white/anim/normal/groudon.gif)](https://pokemondb.net/pokedex/groudon)
 [![Rayquaza](https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif)](https://pokemondb.net/pokedex/rayquaza)
