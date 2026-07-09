@@ -1,4 +1,4 @@
-### ronak ghosh [mail📩](mailto:ronakgh97@gmail.com) [resume📃](https://drive.google.com/file/d/1s0TcNJBv-qBhiULL44FafhiXaKxGQo1z/view?usp=sharing)
+### ronak ghosh [mail📩](mailto:ronakgh97@gmail.com) [resume📃](https://drive.google.com/file/d/1ByDWpHtIELxdNprhGXb8EWSxSaNiirNa/view?usp=sharing)
 lost cs 19yo undergrad
 
 #### some of my works:
@@ -9,7 +9,7 @@ lost cs 19yo undergrad
 - [hnsw](https://github.com/ronakgh97/hnsw-rs): simplified library implementation of hierarchical NSW from [paper](https://arxiv.org/pdf/1603.09320) in rust.
 - [blas](https://github.com/ronakgh97/blas_rs): [openBlas](https://github.com/OpenMathLib/OpenBLAS) kernels implementation in rust for x86_64 arch only.
 - [missile-sim](https://github.com/ronakgh97/missile-sim): library simulates missile-target engagement scenarios using six different guidance laws. It is designed for use in games, simulations and research experiments.
-- [hydra-sync](https://github.com/ronakgh97/hydra-sync): SPMC network library for good abstraction distributed relay cluster applications (e.g qbittorrent, tor, etc)
+- [hydra-sync](https://github.com/ronakgh97/hydra-sync): SPMC network library provides good abstraction for distributed relay cluster applications (e.g qbittorrent, tor, etc)
 - [ghost-sync](https://github.com/ronakgh97/ghost-sync): composable async network rust library for [multiplayer integration](https://www.gabrielgambetta.com/client-server-game-architecture.html) in game dev.
 
 my interests: perf engineering, exploring x86 cpu, database internals, network protocols & stacks and building compute libs
