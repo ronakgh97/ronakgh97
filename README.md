@@ -1,4 +1,4 @@
-### ronak ghosh [mail📩](mailto:ronakgh97@gmail.com) [resume📃](https://drive.google.com/file/d/1Dq5Ku11Mzg-wOJcmIOrQ5MnZbg4YphQJ/view?usp=sharing)
+### ronak ghosh [mail📩](mailto:ronakgh97@gmail.com) [resume📃](https://drive.google.com/file/d/1-DhslG2dICOHbFfIt55Wx6z9XLTvrdOZ/view?usp=sharing)
 lost cs 19yo undergrad
 
 i write _safe_ rust btw
@@ -16,6 +16,8 @@ i write _safe_ rust btw
 - [ghost-sync](https://github.com/ronakgh97/ghost-sync): composable async network rust library for [multiplayer integration](https://www.gabrielgambetta.com/client-server-game-architecture.html) in game dev.
 
 my interests: perf engineering, exploring x86 cpu, database internals, network protocols & stacks and building compute libs;
+
+my showdown team: [gen5](https://teams.pokemonshowdown.com/view/1908306)
 
 [![Groudon](https://img.pokemondb.net/sprites/black-white/anim/normal/groudon.gif)](https://pokemondb.net/pokedex/groudon)
 [![Rayquaza](https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif)](https://pokemondb.net/pokedex/rayquaza)
