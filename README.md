@@ -1,4 +1,4 @@
-### ronak ghosh [mail📩](mailto:ronakgh97@gmail.com) [resume📃](https://drive.google.com/file/d/1-DhslG2dICOHbFfIt55Wx6z9XLTvrdOZ/view?usp=sharing)
+### ronak ghosh [mail📩](mailto:ronakgh97@gmail.com) [resume📃](https://drive.google.com/file/d/1dubmvJGx16FGe2qbZCSQaOsIUGjksApZ/view?usp=sharing)
 lost cs 19yo undergrad
 
 i write _safe_ rust btw
@@ -8,16 +8,16 @@ i write _safe_ rust btw
 `[archived]`
 - [rdrive](https://github.com/ronakgh97/rdrive): decentralized and secure zero-trust **object storage/streaming node**, essentially s3 & b2 clone minus the "bloat".
 - [hnsw](https://github.com/ronakgh97/hnsw-rs): **generic** implementation of hierarchical NSW from [paper](https://arxiv.org/pdf/1603.09320) in rust.
+- [hydra-sync](https://github.com/ronakgh97/hydra-sync): SPMC network library provides good abstraction for distributed relay cluster applications (e.g qbittorrent, tor, etc).
 - [blas](https://github.com/ronakgh97/blas_rs): [openBlas](https://github.com/OpenMathLib/OpenBLAS)/**intel MKL** kernels implementation in rust for x86_64 arch only.
+- [mini-db](https://github.com/ronakgh97/mini-db): lightweight fast, tokio async based kv index with WAL-backend and sharding for durability and peak concurrency.
+- [relay](https://github.com/ronakgh97/relay): simple fast dumb tcp server, who's purpose is to transfer arbitrary data from one computer to another.
 - [cbench](https://github.com/ronakgh97/cbench): micro-benchmarking tool for x86 cpus.
 - [dup](https://github.com/ronakgh97/dup): a highly optimized, unix-style duplicate file finder tool to resurrect your nvme.
 - [missile-sim](https://github.com/ronakgh97/missile-sim): library simulates missile-target engagement scenarios using six different guidance laws. It is designed for use in games, simulations and research experiments.
-- [hydra-sync](https://github.com/ronakgh97/hydra-sync): SPMC network library provides good abstraction for distributed relay cluster applications (e.g qbittorrent, tor, etc).
-- [ghost-sync](https://github.com/ronakgh97/ghost-sync): composable async network rust library for [multiplayer integration](https://www.gabrielgambetta.com/client-server-game-architecture.html) in game dev.
+- [ghost-sync](https://github.com/ronakgh97/ghost-sync): composable async network rust library for [multiplayer integration](https://www.gabrielgambetta.com/client-server-game-architecture.html) in game dev `[archived]`.
 
 my interests: perf engineering, exploring x86 cpu, database internals, network protocols & stacks and building compute libs;
-
-my showdown team: [gen5](https://teams.pokemonshowdown.com/view/1908306)
 
 [![Groudon](https://img.pokemondb.net/sprites/black-white/anim/normal/groudon.gif)](https://pokemondb.net/pokedex/groudon)
 [![Rayquaza](https://img.pokemondb.net/sprites/black-white/anim/normal/rayquaza.gif)](https://pokemondb.net/pokedex/rayquaza)
