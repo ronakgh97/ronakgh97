@@ -13,8 +13,10 @@ i write _safe_ rust btw
 - [mini-db](https://github.com/ronakgh97/mini-db): lightweight fast, tokio async based kv index with WAL-backend and sharding for durability and peak concurrency.
 - [onnx_rs](https://github.com/ronakgh97/onnx_rs): minimal onnx runtime for running f32 precision models for CPUs only, written in pure rust and no ffi or c++.
 - [parallelos](https://github.com/ronakgh97/parallalos): task scheduling library for HPC that implements mixture of known algothrims.
+- [esrgan_rs](https://github.com/ronakgh97/esrgan_rs): pure rust implementation for original ESRGAN, uses AVX2 for x86_64 and portable SIMD for other arch.
 - [relay](https://github.com/ronakgh97/relay): simple super fast dumb tcp server, who's purpose is to transfer arbitrary data from one computer to another.
-- [cbench](https://github.com/ronakgh97/cbench): micro-benchmarking tool for x86 cpus.
+- [mocha](https://github.com/ronakgh97/mocha): minimal desktop overlay showing system info like uptime, cpu, memory, disk, bandwidth tx/rx, keys pressed and mouse clicked.
+- [cbench](https://github.com/ronakgh97/cbench): micro-benchmarking tool for x86_64 cpus.
 - [dup](https://github.com/ronakgh97/dup): highly optimized, unix-style duplicate file finder tool to resurrect your nvme.
 - [missile-sim](https://github.com/ronakgh97/missile-sim): library simulates missile-target engagement scenarios using six different guidance laws. It is designed for use in games, simulations and research experiments.
 - [ghost-sync](https://github.com/ronakgh97/ghost-sync): composable async network rust library for [multiplayer integration](https://www.gabrielgambetta.com/client-server-game-architecture.html) in game dev `[archived]`.
