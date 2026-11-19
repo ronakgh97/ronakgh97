@@ -4,19 +4,19 @@ lost cs 19yo undergrad
 i write _safe_ rust btw
 
 #### some of my works:
-- [blazedb](https://github.com/ronakgh97/blaze-db): disk & memory optimized vector search engine/database, which uses [hnsw](https://arxiv.org/pdf/2512.06636) + [ivf](https://www.velodb.io/glossary/inverted-file-index-in-vector-similarity-search) + [[turboquant](https://arxiv.org/pdf/2504.19874) (WIP)] and simd for fast retrivals.
+- [blazedb](https://github.com/ronakgh97/blaze-db): disk & memory optimized vector search engine/database, which uses [hnsw](https://arxiv.org/pdf/2512.06636) + [ivf](https://www.velodb.io/glossary/inverted-file-index-in-vector-similarity-search) + [[turboquant](https://arxiv.org/pdf/2504.19874) (WIP)] and SIMD for fast retrivals.
 `[archived]`
 - [rdrive](https://github.com/ronakgh97/rdrive): decentralized and secure zero-trust **object storage/streaming node**, essentially s3 & b2 clone minus the "bloat".
-- [hnsw](https://github.com/ronakgh97/hnsw-rs): **generic** implementation of hierarchical NSW from [paper](https://arxiv.org/pdf/1603.09320) with SIMD opts in rust.
+- [hnsw-rs](https://github.com/ronakgh97/hnsw-rs): **generic** implementation of hierarchical NSW from [paper](https://arxiv.org/pdf/1603.09320) with hand-tuned SIMD acceleration in rust.
 - [hydra-sync](https://github.com/ronakgh97/hydra-sync): SPMC network library provides good abstraction for distributed relay cluster applications (e.g qbittorrent, tor, etc).
-- [blas](https://github.com/ronakgh97/blas_rs): [openBlas](https://github.com/OpenMathLib/OpenBLAS)/**intel MKL** kernels implementation in rust for x86_64 arch only.
-- [mini-db](https://github.com/ronakgh97/mini-db): lightweight fast, tokio async based kv index with WAL-backend and sharding for durability and peak concurrency.
-- [onnx_rs](https://github.com/ronakgh97/onnx_rs): minimal onnx runtime for running f32 precision models for CPUs only, written in pure rust and no ffi or c++.
-- [parallelos](https://github.com/ronakgh97/parallalos): task scheduling library for HPC that implements mixture of known algothrims.
-- [esrgan_rs](https://github.com/ronakgh97/esrgan_rs): pure rust implementation for original ESRGAN, uses AVX2 for x86_64 and portable SIMD for other arch.
-- [relay](https://github.com/ronakgh97/relay): simple super fast dumb tcp server, who's purpose is to transfer arbitrary data from one computer to another.
+- [blas-rs](https://github.com/ronakgh97/blas-rs): [OpenBlas](https://github.com/OpenMathLib/OpenBLAS)/**Intel MKL** kernels implementation in rust for x86_64 arch only.
+- [mini-db](https://github.com/ronakgh97/mini-db): lightweight fast, tokio async based KV index with WAL-backend and sharding for durability and peak concurrency.
+- [onnx-rs](https://github.com/ronakgh97/onnx-rs): minimal onnx runtime for running fp32 precision models for CPUs only, written in pure rust and no ffi or c++.
+- [parallelos](https://github.com/ronakgh97/parallelos): thread task scheduling library for HPC that implements mixture of known [scheduling algorithms](https://en.wikipedia.org/wiki/Category:Scheduling_algorithms).
+- [esrgan-rs](https://github.com/ronakgh97/esrgan-rs): pure rust implementation for original ESRGAN, uses AVX2 for x86_64 and portable SIMD for other arch.
+- [relay](https://github.com/ronakgh97/relay): simple super fast dumb duplex TCP server, who's purpose is to transfer and receive arbitrary data from one computer to another.
 - [mocha](https://github.com/ronakgh97/mocha): minimal desktop overlay showing system info like uptime, cpu, memory, disk, bandwidth tx/rx, keys pressed and mouse clicked.
-- [cbench](https://github.com/ronakgh97/cbench): micro-benchmarking tool for x86_64 cpus.
+- [cbench](https://github.com/ronakgh97/cbench): micro-benchmarking tool for x86_64 cpus, using PI/BLAS and other mathematical computation.
 - [dup](https://github.com/ronakgh97/dup): highly optimized, unix-style duplicate file finder tool to resurrect your nvme.
 - [missile-sim](https://github.com/ronakgh97/missile-sim): library simulates missile-target engagement scenarios using six different guidance laws. It is designed for use in games, simulations and research experiments.
 - [ghost-sync](https://github.com/ronakgh97/ghost-sync): composable async network rust library for [multiplayer integration](https://www.gabrielgambetta.com/client-server-game-architecture.html) in game dev `[archived]`.
