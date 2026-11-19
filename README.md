@@ -1,5 +1,5 @@
-### ronak ghosh [mail📩](mailto:ronakgh97@gmail.com) [resume📃](https://drive.google.com/file/d/1oQbIdZrkA5DwrDIkOFNcP5HnZfiAWHya/view?usp=sharing)
-lost cs 19yo undergrad
+### ronak ghosh [mail](mailto:ronakgh97@gmail.com) [resume](https://drive.google.com/file/d/1Ode6GuWuo1WcRrLhydV8lvDfEakDE8Gh/view)
+unemployed cs 19yo undergrad
 
 i write _safe_ rust btw
 
